@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=JersonDevcodes&color=006bed)
 
-<h3> :men: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando <b>PORGRAMAÇÃO</b> no <b>CODECLUB</b> 
