@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=JersonDevcodes&color=006bed)
 
-<h3> :man: &nbsp;Sobre mim </h3>
+<h3> :men: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando <b>PORGRAMAÇÃO</b> no <b>CODECLUB</b> 
@@ -36,6 +36,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: Jerson de Carvalho da Silveira](https://img.shields.io/badge/-JersonDeCarvalhoDaSilveira-blue?style=flat-square&logo=linkedin&logoColor=white&link=LINK-https://www.linkedin.com/in/jerson-de-carvalho-da-silveira-04815522a/)](https://www.linkedin.com/in/jerson-de-carvalho-da-silveira-04815522a/)
 [![Gmail Badge](https://img.shields.io/badge/-secretgames33@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:secretgames33@gmail.com)](mailto:secretgames33@gmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/JersonDevcode?label=follow&style=social)](https://github.com/JersonDevcode)
