@@ -37,5 +37,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Jerson de Carvalho da Silveira](https://img.shields.io/badge/-JersonDeCarvalhoDaSilveira-blue?style=flat-square&logo=linkedin&logoColor=white&link=LINK-https://www.linkedin.com/in/jerson-de-carvalho-da-silveira-04815522a/)](https://www.linkedin.com/in/jerson-de-carvalho-da-silveira-04815522a/)
-[![Gmail Badge](https://img.shields.io/badge/-secretgames33@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:secretgames33@gmail.com)](mailto:jersondasilveira@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jersondasilveira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:secretgames33@gmail.com)](mailto:jersondasilveira@gmail.com)
 [![GitHub JersonDevcode]( https://img.shields.io/github/followers/JersonDevcode?label=follow&style=social)](https://github.com/JersonDevcode)
