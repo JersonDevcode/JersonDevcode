@@ -4,7 +4,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando <b>PORGRAMAÇÃO</b> no <b>CODECLUB</b> 
+- 🎓 &nbsp; Estudando <b>PROGRAMAÇÃO</b> no <b>CODECLUB</b> 
 - 💼 &nbsp; Atualmente estou Trabalhando como <b>Empacotador</b> no Supermercado <a href="http://supermercadosbaklizi.com.br/baklizi/">BAKLIZI</a>
 - 🌱 &nbsp; Aprendendo mais sobre <b>HTML, CSS, JAVASCRIPT </b>.
 
