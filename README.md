@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando <b>PROGRAMAÇÃO</b> no <b>CODECLUB</b> 
 - 💼 &nbsp; Atualmente estou Trabalhando como <b>Empacotador</b> no Supermercado <a href="http://supermercadosbaklizi.com.br/baklizi/">BAKLIZI</a>
-- 🌱 &nbsp; Aprendendo mais sobre <b>HTML, CSS, JAVASCRIPT </b>.
+- 🌱 &nbsp; Aprendendo mais sobre <b>HTML, CSS, JAVASCRIPT Entre Outras Tecnologias</b>.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
